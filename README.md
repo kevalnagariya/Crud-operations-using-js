@@ -7,4 +7,6 @@
 </ul>
 
 <h3> Output would look something like this </h3>
-[image](https://github.com/kevalnagariya/Crud-operations-using-js/assets/32120110/0f5c0479-e84d-4081-bc3f-52a76b83d4c6)
+
+![image](https://github.com/kevalnagariya/Crud-operations-using-js/assets/32120110/494f012c-006a-47a9-8163-ede51572ff23)
+
